@@ -23,4 +23,4 @@ const header = () => {
     console.log("Header Function");
 }
 
-export {header}
+export { header }
