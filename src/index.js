@@ -8,3 +8,5 @@ import { contact } from './contact'
 header();
 nav();
 footer();
+
+home();
