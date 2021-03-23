@@ -56,12 +56,23 @@ body {
     font-size: 1.5em;
     justify-content: center;
     padding: 0 .7em;
+    
 }
 
 #nav {
     display: flex;
     justify-content: flex-end;
     width: 100%;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+    cursor: pointer;
+}
+
+a:hover {
+    color: rgb(87, 86, 86);
 }
 
 /* Footer */
@@ -86,5 +97,6 @@ body {
 }
 
 #github-image {
-    height: .9em;
+    height: 1.2em;
+    cursor: pointer;
 }
