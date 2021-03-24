@@ -9,7 +9,7 @@ import { clear } from './clear'
 header();
 nav();
 footer();
-contact();
+home();
 
 let homeButton = document.getElementById('home');
 homeButton.onclick = () => {

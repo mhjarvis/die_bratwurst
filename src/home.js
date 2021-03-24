@@ -16,7 +16,7 @@ const home = () => {
 
     const getContainerBox = document.getElementById('container-box');
     paragraph.id = "paragraph-header";
-    paragraph.innerText = "The best Bratwurst on this side of the Planet!";
+    paragraph.innerText = "Pariatur incididunt eu magna tempor aute ut laboris excepteur.";
     getContainerBox.appendChild(paragraph);
 
     const img = document.createElement('img');
