@@ -18,7 +18,6 @@ const nav = () => {
         //li.setAttribute('href', ('./' + li.id + '.js'));
         nav.appendChild(li);
         const getListElement = document.getElementById(li.id);
-        a.href = './home';
         a.innerHTML = arr[i];
         getListElement.appendChild(a);
 
